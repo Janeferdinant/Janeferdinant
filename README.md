@@ -20,8 +20,8 @@ I teach and mentor students in **AI/ML, Deep Learning, Data Science, and Program
 ## 🛠️ Tech & Skills  
 - **Core Expertise:** AI | ML | Deep Learning | Computer Vision | Image Processing  
 - **Languages & Tools:** Python, MATLAB, Data Analytics & Visualization  
-- **Research Areas:** Intelligent Systems, IoT, NLP  
-- **Other Skills:** Curriculum Design | Research Mentorship | Academic Leadership  
+- **Research Areas:** Neural Networks, Intelligent Systems, IoT, NLP  
+- **Other Skills:** Business Consulting | Curriculum Design | Research Mentorship | Academic Leadership  
 
 ---
 
