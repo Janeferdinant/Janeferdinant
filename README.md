@@ -42,7 +42,7 @@ I teach and mentor students in **AI/ML, Deep Learning, Data Science, and Program
 ## 📫 Connect with Me  
 - 📧 Email: [janeferdinant@gmail.com](mailto:janeferdinant@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/janerosenf](https://www.linkedin.com/in/janerosenf)  
-- 🌐 Portfolio: [janeroseferdinant.github.io](https://janeroseferdinant.github.io)  
+- 🌐 Portfolio: [janeroseferdinant.vercel.app](https://janeferdinant.vercel.app/)
 
 ---
 
