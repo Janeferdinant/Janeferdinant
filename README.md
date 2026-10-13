@@ -1,67 +1,63 @@
-# Hi, I'm Jane Rose Ferdinant 👋
+[![Jane Rose Ferdinant, Assistant Professor of AI and Machine Learning, SNMIMT Engineering College, Kerala](assets/header.svg)](https://janeferdinant.vercel.app)
 
-**Assistant Professor of AI & Machine Learning** at SNMIMT Engineering College, Ernakulam, Kerala.
+[![Portfolio](https://img.shields.io/badge/Portfolio-janeferdinant.vercel.app-5d6487?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3f4670)](https://janeferdinant.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-janerosenf-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/janerosenf/) [![Download CV](https://img.shields.io/badge/CV-Download%20PDF-c9a35f?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=8a6a2f)](https://janeferdinant.vercel.app/assets/cv/Jane_Rose_Ferdinant_Assistant_Professor_CV.pdf) [![IEEE paper](https://img.shields.io/badge/IEEE-ICACC%202019%20paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICACC48162.2019.8986220) [![Send a message](https://img.shields.io/badge/Message-via%20portfolio-66587a?style=for-the-badge&logo=minutemailer&logoColor=white)](https://janeferdinant.vercel.app/#contact)
 
-Before teaching, I spent four years in industry as a technical and freelance consultant. I co-authored an IEEE paper on computer vision for precision agriculture, and I build interactive learning tools for the courses I teach.
+I teach AI and machine learning, build interactive learning tools for my students, and spent four years in industry as a technical and freelance consultant, turning data into models, dashboards and decisions.
 
-**[Portfolio](https://janeferdinant.vercel.app)** · **[LinkedIn](https://www.linkedin.com/in/janerosenf/)** · **[CV (PDF)](https://janeferdinant.vercel.app/assets/cv/Jane_Rose_Ferdinant_Assistant_Professor_CV.pdf)** · **[Publication](https://doi.org/10.1109/ICACC48162.2019.8986220)**
+## ✨ Right now
 
-## What I do
+- 🏫 Teaching **AI, ML, deep learning and computer vision** at SNMIMT Engineering College, Ernakulam
+- 🧭 Supervising student projects, dissertations and internships
+- 🛠️ Building interactive learning portals for KTU courses, from 3D networking labs to exam solvers
+- 🔬 Exploring **RAG, AI agents and LLM evaluation**, and bringing them into the classroom
+- 🤝 Open to research collaborations and consulting in intelligent systems
 
-- **Teach and mentor** AI, machine learning, deep learning, computer vision, data science and programming, and supervise student projects, dissertations and internships.
-- **Build learning tools**: interactive portals, simulators and question banks for KTU courses.
-- **Apply AI to real problems**: computer vision, NLP, recommendation and analytics, from data preparation to deployment.
+## 🚀 Featured projects
 
-## Featured projects
+[![Harvestable Black Pepper Recognition: IEEE paper, 100% global accuracy reported](assets/cards/black-pepper.svg)](https://doi.org/10.1109/ICACC48162.2019.8986220) [![Face-Mask Detection: MTCNN and InceptionV3, 94.85% test accuracy](assets/cards/face-mask.svg)](https://github.com/Janeferdinant/FACEMASK_MTCNN) [![SMS Spam Classifier: TF-IDF and Naive Bayes, 96.41% accuracy](assets/cards/sms-spam.svg)](https://github.com/Janeferdinant/NLP) [![Fake-News Detection teaching demo: Logistic Regression, XGBoost and DistilBERT](assets/cards/fake-news.svg)](https://github.com/Janeferdinant/news) [![E-Commerce Recommendation: +15% user engagement reported](assets/cards/recommender.svg)](https://janeferdinant.vercel.app/#projects)
 
-| Project | What it does | Result | Link |
-|---|---|---|---|
-| Harvestable Black Pepper Recognition | Image pipeline with ResNet-50 verification that separates harvestable pepper from leaves and unripe berries (IEEE ICACC 2019) | 100% global accuracy reported | [Paper](https://doi.org/10.1109/ICACC48162.2019.8986220) |
-| Face-Mask Detection | Real-time webcam detector: MTCNN finds faces, a transfer-learned InceptionV3 classifies mask, no mask or incorrectly worn | 94.85% test accuracy | [Code](https://github.com/Janeferdinant/FACEMASK_MTCNN) |
-| SMS Spam Classifier | TF-IDF features with a Naive Bayes model | 96.41% accuracy on 1,672 held-out messages | [Code](https://github.com/Janeferdinant/NLP) |
-| Fake-News Detection (teaching demo) | Compares Logistic Regression, XGBoost and DistilBERT, with ant-colony feature selection over TF-IDF | | [Code](https://github.com/Janeferdinant/news) |
+## 🎓 Teaching tools
 
-## Teaching tools
+[![NetVerse 3D: interactive 3D learning dashboard for KTU CST303 Computer Networks](assets/cards/netverse-3d.webp)](https://cst303-computer-networks-dashboard.vercel.app)
 
-| Tool | Course | Links |
-|---|---|---|
-| NetVerse 3D: syllabus explorer, protocol simulators, 3D scenes and solved exam papers | KTU CST303 Computer Networks | [Live](https://cst303-computer-networks-dashboard.vercel.app) · [Code](https://github.com/Janeferdinant/cst303-computer-networks-dashboard) |
-| Data Structures Lab portal: 18 experiments, viva questions and a quiz | KTU PCCSL307 | [Live](https://dsa-neon-kappa.vercel.app) · [Code](https://github.com/Janeferdinant/dsa) |
-| AI & Data Science portal: study portal and question bank | KTU GNEST305 | [Live](https://ai-data-science-portal.vercel.app) · [Code](https://github.com/Janeferdinant/AIIDS) |
-| PDF to Quiz: multiple-choice and true/false questions generated from a PDF with Google Gemini | Generative AI for assessment | [Code](https://github.com/Janeferdinant/pdf-2-quiz) |
-| Data-communication demos: bit stuffing and stop-and-wait walkthroughs | Data link layer | [Live](https://janeferdinant.github.io/bit/) · [Code](https://github.com/Janeferdinant/bit) |
-| ML course notebooks: 13 notebooks from CNNs to regression | Machine learning lab | [Code](https://github.com/Janeferdinant/Machine-learning-Course) |
+[![Data Structures Lab portal for KTU PCCSL307](assets/cards/dsa-lab.svg)](https://dsa-neon-kappa.vercel.app) [![AI and Data Science portal for KTU GNEST305](assets/cards/ai-data-science.svg)](https://ai-data-science-portal.vercel.app) [![PDF to Quiz: questions generated with Google Gemini](assets/cards/pdf-to-quiz.svg)](https://github.com/Janeferdinant/pdf-2-quiz) [![Data-communication demos: bit stuffing and stop-and-wait](assets/cards/data-communication.svg)](https://janeferdinant.github.io/bit/) [![Machine-learning course notebooks](assets/cards/ml-notebooks.svg)](https://github.com/Janeferdinant/Machine-learning-Course)
 
-## Experience
+*Each card opens the live tool where there is one, otherwise the code.*
 
-- **Assistant Professor, AI & ML**, SNMIMT Engineering College, Ernakulam (Jan 2026 – present)
-- **Assistant Professor**, Sri Vasavi Engineering College, Andhra Pradesh (Apr – Oct 2025)
-- **Freelance Consultant**, self-employed, Thrissur (Jan 2022 – Mar 2025)
-- **Technical Consultant**, Technovalley Software India, Ernakulam (Mar – Dec 2021)
+## 🧰 Tech I work with
 
-**Education:** M.Tech, Information Technology (Software Systems), CUSAT (2017–2019) · B.Tech, Electronics & Communication, Sahrdaya College of Engineering and Technology (University of Calicut, 2011–2015)
-
-## Skills & tools
+![Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda, MATLAB, Docker, Kubernetes, GitHub Actions, AWS, Azure, FastAPI, Flask, MySQL, PostgreSQL, MongoDB, React, Next.js, Three.js, TypeScript, Linux, Git, Vercel](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,matlab,docker,kubernetes,githubactions,aws,azure,fastapi,flask,mysql,postgres,mongodb,react,nextjs,threejs,ts,linux,git,vercel&perline=12)
 
 | Area | Tools and methods |
 |---|---|
-| Generative AI & LLMs | Gemini and OpenAI APIs, prompt engineering, RAG, LangChain, LlamaIndex, vector databases, LoRA / PEFT fine-tuning, AI agents, LLM evaluation |
-| Machine & deep learning | Supervised and unsupervised learning, NLP, time series, anomaly detection, recommendation systems, explainable AI, PyTorch, TensorFlow, scikit-learn, XGBoost |
-| Computer vision | Image processing, YOLO, U-Net / SAM, ViT / CLIP, MTCNN, transfer learning, OpenCV, ONNX, TensorFlow Lite |
-| Data science & BI | Pandas, NumPy, statistical analysis, Plotly & Dash, Power BI, Tableau, Microsoft Fabric, Databricks, PySpark |
-| Data engineering | SQL, PostgreSQL, MySQL, MongoDB, Azure Data Lake, ETL / ELT, Apache Spark, Airflow |
-| MLOps & cloud | MLflow, Docker, CI/CD with GitHub Actions, FastAPI, Flask, Streamlit, DVC, AWS, Azure, Kubernetes |
-| Programming | Python, SQL, C / C++, Java, MATLAB, JavaScript / TypeScript, React, Next.js, Three.js |
-| Research | Experimental design, model evaluation and benchmarking, ablation studies, reproducible experiments, Weights & Biases, Optuna, literature review |
+| 🤖 Generative AI & LLMs | Gemini and OpenAI APIs, prompt engineering, RAG, LangChain, LlamaIndex, embeddings and reranking, vector databases, LoRA / PEFT fine-tuning, AI agents and tool calling, agent workflows, Hugging Face Transformers, LLM evaluation (RAGAS, LangSmith), guardrails and structured outputs |
+| 🧠 Machine & deep learning | Supervised and unsupervised learning, deep learning, NLP, time-series forecasting, anomaly detection, recommendation systems, reinforcement learning, explainable AI (SHAP / LIME), Optuna, scikit-learn, XGBoost, PyTorch, TensorFlow, Keras |
+| 👁️ Computer vision | Image processing, YOLO, U-Net / SAM segmentation, ViT / CLIP, MTCNN, transfer learning, CNNs, OpenCV, ONNX Runtime, TensorFlow Lite, edge AI deployment |
+| 📊 Data science & BI | Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly & Dash, Power BI, Tableau, Microsoft Fabric, Databricks, PySpark, EDA, statistical analysis |
+| 🗄️ Data engineering | SQL, MySQL, PostgreSQL, MongoDB, Azure Data Lake, ETL / ELT pipelines, Apache Spark, Apache Airflow, data modelling, pipeline automation |
+| ☁️ MLOps & cloud | MLflow, Docker, Git and GitHub, CI/CD with GitHub Actions, FastAPI, Flask, Streamlit, REST APIs, model serving and monitoring, DVC, AWS, Microsoft Azure, Kubernetes |
+| 💻 Programming | Python, SQL, C / C++, Java, MATLAB, JavaScript / TypeScript, React, Next.js, Pydantic, Pytest, Linux |
+| 🔬 Research | Experimental design, statistical evaluation, benchmarking, ablation studies, reproducible experiments, Weights & Biases, literature review and research-gap analysis |
+| 🌐 Web & visualisation | React, Next.js, Three.js, interactive data visualisation, 3D visualisation, interactive simulations |
 
-## Certifications
+## 🛤️ Journey
+
+| When | Role | Where |
+|---|---|---|
+| 2026 – now | 👩‍🏫 **Assistant Professor, AI & ML** | SNMIMT Engineering College, Ernakulam |
+| 2025 | 👩‍🏫 **Assistant Professor** | Sri Vasavi Engineering College, Andhra Pradesh |
+| 2022 – 2025 | 💼 **Freelance Consultant** | ML, computer vision and analytics for clients, Thrissur |
+| 2021 | 💼 **Technical Consultant** | Technovalley Software India, Ernakulam |
+| 2019 | 📄 **IEEE ICACC paper** | Harvestable black-pepper recognition with computer vision |
+| 2017 – 2019 | 🎓 **M.Tech, Information Technology (Software Systems)** | Cochin University of Science and Technology |
+| 2011 – 2015 | 🎓 **B.Tech, Electronics & Communication** | Sahrdaya College of Engineering and Technology (University of Calicut) |
+
+## 📜 Certifications
 
 Machine Learning · Artificial Intelligence Foundations: Machine Learning · Image Processing · Database Foundations: Creating and Manipulating Data · Advanced Selenium: Automation Frameworks
 
-## Publication
+## 📖 Publication
 
 S. Joseph, **N. F. Jane Rose** and P. V. Akhil, "Harvestable Black Pepper Recognition Using Computer Vision," *2019 9th International Conference on Advances in Computing and Communication (ICACC)*, Kochi, India, IEEE, pp. 97–102. [doi:10.1109/ICACC48162.2019.8986220](https://doi.org/10.1109/ICACC48162.2019.8986220)
 
-## Get in touch
-
-Open to opportunities in AI, data science, research and teaching, and to collaborative projects. [Send me a message through my portfolio](https://janeferdinant.vercel.app/#contact) or connect on [LinkedIn](https://www.linkedin.com/in/janerosenf/).
+[![Let's build something meaningful. Visit janeferdinant.vercel.app](assets/footer.svg)](https://janeferdinant.vercel.app/#contact)
