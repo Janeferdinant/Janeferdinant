@@ -1,6 +1,4 @@
-[![Jane Rose Ferdinant, Assistant Professor of AI and Machine Learning, SNMIMT Engineering College, Kerala](assets/header.svg)](https://janeferdinant.vercel.app)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-janeferdinant.vercel.app-5d6487?style=for-the-badge&logo=vercel&logoColor=white&labelColor=3f4670)](https://janeferdinant.vercel.app) [![LinkedIn](https://img.shields.io/badge/LinkedIn-janerosenf-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/janerosenf/) [![Download CV](https://img.shields.io/badge/CV-Download%20PDF-c9a35f?style=for-the-badge&logo=readthedocs&logoColor=white&labelColor=8a6a2f)](https://janeferdinant.vercel.app/assets/cv/Jane_Rose_Ferdinant_Assistant_Professor_CV.pdf) [![IEEE paper](https://img.shields.io/badge/IEEE-ICACC%202019%20paper-00629B?style=for-the-badge&logo=ieee&logoColor=white)](https://doi.org/10.1109/ICACC48162.2019.8986220) [![Send a message](https://img.shields.io/badge/Message-via%20portfolio-66587a?style=for-the-badge&logo=minutemailer&logoColor=white)](https://janeferdinant.vercel.app/#contact)
 
 I teach AI and machine learning, build interactive learning tools for my students, and spent four years in industry as a technical and freelance consultant, turning data into models, dashboards and decisions.
 
