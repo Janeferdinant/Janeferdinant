@@ -12,18 +12,6 @@ I teach AI and machine learning, build interactive learning tools for my student
 - 🔬 Exploring **RAG, AI agents and LLM evaluation**, and bringing them into the classroom
 - 🤝 Open to research collaborations and consulting in intelligent systems
 
-## 🚀 Featured projects
-
-[![Harvestable Black Pepper Recognition: IEEE paper, 100% global accuracy reported](assets/cards/black-pepper.svg)](https://doi.org/10.1109/ICACC48162.2019.8986220) [![Face-Mask Detection: MTCNN and InceptionV3, 94.85% test accuracy](assets/cards/face-mask.svg)](https://github.com/Janeferdinant/FACEMASK_MTCNN) [![SMS Spam Classifier: TF-IDF and Naive Bayes, 96.41% accuracy](assets/cards/sms-spam.svg)](https://github.com/Janeferdinant/NLP) [![Fake-News Detection teaching demo: Logistic Regression, XGBoost and DistilBERT](assets/cards/fake-news.svg)](https://github.com/Janeferdinant/news) [![E-Commerce Recommendation: +15% user engagement reported](assets/cards/recommender.svg)](https://janeferdinant.vercel.app/#projects)
-
-## 🎓 Teaching tools
-
-[![NetVerse 3D: interactive 3D learning dashboard for KTU CST303 Computer Networks](assets/cards/netverse-3d.webp)](https://cst303-computer-networks-dashboard.vercel.app)
-
-[![Data Structures Lab portal for KTU PCCSL307](assets/cards/dsa-lab.svg)](https://dsa-neon-kappa.vercel.app) [![AI and Data Science portal for KTU GNEST305](assets/cards/ai-data-science.svg)](https://ai-data-science-portal.vercel.app) [![PDF to Quiz: questions generated with Google Gemini](assets/cards/pdf-to-quiz.svg)](https://github.com/Janeferdinant/pdf-2-quiz) [![Data-communication demos: bit stuffing and stop-and-wait](assets/cards/data-communication.svg)](https://janeferdinant.github.io/bit/) [![Machine-learning course notebooks](assets/cards/ml-notebooks.svg)](https://github.com/Janeferdinant/Machine-learning-Course)
-
-*Each card opens the live tool where there is one, otherwise the code.*
-
 ## 🧰 Tech I work with
 
 ![Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda, MATLAB, Docker, Kubernetes, GitHub Actions, AWS, Azure, FastAPI, Flask, MySQL, PostgreSQL, MongoDB, React, Next.js, Three.js, TypeScript, Linux, Git, Vercel](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,matlab,docker,kubernetes,githubactions,aws,azure,fastapi,flask,mysql,postgres,mongodb,react,nextjs,threejs,ts,linux,git,vercel&perline=12)
