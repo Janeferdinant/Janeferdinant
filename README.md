@@ -26,3 +26,20 @@ Numbers carry their status: *Verified* means a committed, dated run in the repo;
 ## Teaching tools
 
 [NetVerse](https://github.com/Janeferdinant/cst303-computer-networks-dashboard) · [dsa](https://github.com/Janeferdinant/dsa) · [bit](https://github.com/Janeferdinant/bit) · [ML course notebooks](https://github.com/Janeferdinant/Machine-learning-Course) · [PDF to Quiz](https://github.com/Janeferdinant/pdf-2-quiz) · [Fake-News](https://github.com/Janeferdinant/news) · [AIIDS](https://github.com/Janeferdinant/AIIDS)
+
+## Tech I work with
+
+![Python, PyTorch, TensorFlow, scikit-learn, OpenCV, MATLAB, Docker, GitHub Actions, FastAPI, Flask, React, Next.js, Three.js, TypeScript, Linux, Git, Vercel](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,matlab,docker,githubactions,fastapi,flask,react,nextjs,threejs,ts,linux,git,vercel&perline=12)
+
+| Area | Tools and methods |
+|---|---|
+| Generative AI & LLMs | LLM APIs (Gemini, OpenAI, Anthropic), prompt engineering, retrieval-augmented generation, embeddings and reranking, Hugging Face Transformers, structured outputs |
+| Machine & deep learning | Supervised and unsupervised learning, deep learning, NLP, time-series forecasting, anomaly detection, recommendation systems, reinforcement learning, explainable AI (SHAP), Optuna, scikit-learn, XGBoost, PyTorch, TensorFlow, Keras |
+| Computer vision | Image processing, face detection (MTCNN), transfer learning, CNNs, OpenCV |
+| Data science & BI | Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly, EDA, statistical analysis, data visualisation |
+| Data engineering | SQL, ETL / ELT pipelines, data modelling, pipeline automation |
+| MLOps & cloud | MLflow, Docker, Git and GitHub, CI/CD with GitHub Actions, FastAPI, Flask, REST APIs, model serving and monitoring |
+| Programming | Python, SQL, C / C++, MATLAB, JavaScript / TypeScript, React, Next.js, Pydantic, Pytest, Linux, software testing |
+| Research | Experimental design, statistical evaluation, benchmarking, ablation studies, reproducible experiments, literature review and research-gap analysis |
+| Web & visualisation | React, Next.js, Three.js, interactive data visualisation, 3D visualisation, interactive simulations |
+| Familiar with | LangChain, LlamaIndex, vector databases, LLM fine-tuning (LoRA / PEFT), AI agents, LLM evaluation, LIME, YOLO, U-Net / SAM, ViT / CLIP, ONNX Runtime, TensorFlow Lite, Dash, Streamlit, DVC, Power BI, Tableau, Microsoft Fabric, Databricks, PySpark, Apache Spark, Airflow, MySQL, PostgreSQL, MongoDB, Azure Data Lake, AWS, Azure, Kubernetes, Java, Weights & Biases |
