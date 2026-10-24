@@ -21,7 +21,7 @@ Numbers carry their status: *Verified* means a committed, dated run in the repo;
 
 ## More projects
 
-[SMS spam (NLP)](https://github.com/Janeferdinant/NLP) · [Face-mask detection](https://github.com/Janeferdinant/FACEMASK_MTCNN) · [Stock forecasting with LSTM and RL](https://github.com/Janeferdinant/stock-forecasting-lstm-rl) · [Model serving with FastAPI](https://github.com/Janeferdinant/ml-model-serving-fastapi) · [Housing price regression](https://github.com/Janeferdinant/housing-price-regression)
+[SMS spam (NLP)](https://github.com/Janeferdinant/NLP) · [Face-mask detection](https://github.com/Janeferdinant/FACEMASK_MTCNN) · [FX and Treasury forecasting (LSTM, DQN)](https://github.com/Janeferdinant/fx-treasury-forecasting-lstm-rl) · [Model serving with FastAPI](https://github.com/Janeferdinant/ml-model-serving-fastapi) · [Housing price regression](https://github.com/Janeferdinant/housing-price-regression)
 
 ## Teaching tools
 
