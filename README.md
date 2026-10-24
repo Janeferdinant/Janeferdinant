@@ -1,49 +1,28 @@
+# Jane Rose Ferdinant
 
+**Assistant Professor, AI & ML** at SNMIMT, Ernakulam
 
-I teach AI and machine learning, build interactive learning tools for my students, and spent four years in industry as a technical and freelance consultant, turning data into models, dashboards and decisions.
+I work on AI, machine learning, data science, computer vision and analytics, and on the research and teaching around them. My projects are independent studies on public data, and interactive tools I build for my students.
 
-## ✨ Right now
+[![Portfolio: janeferdinant.vercel.app](https://img.shields.io/badge/Portfolio-janeferdinant.vercel.app-blue)](https://janeferdinant.vercel.app) [![LinkedIn: Jane Rose Ferdinant](https://img.shields.io/badge/LinkedIn-janerosenf-blue)](https://www.linkedin.com/in/janerosenf/)
 
-- 🏫 Teaching **AI, ML, deep learning and computer vision** at SNMIMT Engineering College, Ernakulam
-- 🧭 Supervising student projects, dissertations and internships
-- 🛠️ Building interactive learning portals for KTU courses, from 3D networking labs to exam solvers
-- 🔬 Exploring **RAG, AI agents and LLM evaluation**, and bringing them into the classroom
-- 🤝 Open to research collaborations and consulting in intelligent systems
+## Featured projects
 
-## 🧰 Tech I work with
+Numbers carry their status: *Verified* means a committed, dated run in the repo; *Reported* means taken from a paper and not reproduced.
 
-![Python, PyTorch, TensorFlow, scikit-learn, OpenCV, Anaconda, MATLAB, Docker, Kubernetes, GitHub Actions, AWS, Azure, FastAPI, Flask, MySQL, PostgreSQL, MongoDB, React, Next.js, Three.js, TypeScript, Linux, Git, Vercel](https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,opencv,anaconda,matlab,docker,kubernetes,githubactions,aws,azure,fastapi,flask,mysql,postgres,mongodb,react,nextjs,threejs,ts,linux,git,vercel&perline=12)
+- **Anomaly detection for monitoring**: on injected anomalies, false alerts fall 77% against a z-score at matched recall; on real expert-labelled data no detector is distinguishable from it (Verified, run 2026-10-14). [Code](https://github.com/Janeferdinant/anomaly-detection-monitoring) · [Live demo](https://janeferdinant.github.io/anomaly-detection-monitoring/)
+- **E-commerce recommender**: EASE reaches hit rate@10 of 46.1% on Online Retail II, +60.2% over popularity (Verified, offline, run 2026-10-14). [Code](https://github.com/Janeferdinant/ecommerce-recommender) · [Live demo](https://janeferdinant.github.io/ecommerce-recommender/)
+- **Transfer learning for vision**: MobileNetV2 reaches the target accuracy in 60% to 76% less CPU training time than a scratch CNN (Verified, two committed runs, 2026-10-14 to 17). [Code](https://github.com/Janeferdinant/transfer-learning-vision) · [Live demo](https://janeferdinant.github.io/transfer-learning-vision/)
+- **Pneumonia X-ray CNN**: test AUC 0.986 for a small CNN against 0.928 for a pixel logistic-regression baseline on PneumoniaMNIST; a research exercise, not a diagnostic tool (Verified, 5 seeds, run 2026-10-15). [Code](https://github.com/Janeferdinant/pneumonia-xray-cnn) · [Live demo](https://janeferdinant.github.io/pneumonia-xray-cnn/)
+- **RAG document QA evaluation**: hybrid retrieval with reranking reaches Recall@5 of 0.973 on held-out SQuAD 2.0 questions (Verified, run 2026-10-15). [Code](https://github.com/Janeferdinant/rag-document-qa-eval) · [Live demo](https://janeferdinant.github.io/rag-document-qa-eval/)
+- **Loan credit-risk prediction**: on German Credit no model beats logistic regression reliably (AUC 0.798); the cost-based threshold costs 0.520 per applicant against 0.700 for rejecting everyone (Verified, run 2026-10-15). [Code](https://github.com/Janeferdinant/loan-credit-risk-prediction) · [Live demo](https://janeferdinant.github.io/loan-credit-risk-prediction/)
+- **Analytics dashboards**: retail, HR and marketing dashboards on public data; 33 of 33 data-quality checks pass (Verified, run 2026-10-15). [Code](https://github.com/Janeferdinant/analytics-dashboards) · [Live demo](https://janeferdinant.github.io/analytics-dashboards/)
+- **Black pepper recognition**: an explainer of my co-authored IEEE paper, which reports 100% global accuracy on 115 test images (Reported in the paper, not reproduced here). [Code](https://github.com/Janeferdinant/black-pepper-recognition) · [Live demo](https://janeferdinant.github.io/black-pepper-recognition/)
 
-| Area | Tools and methods |
-|---|---|
-| 🤖 Generative AI & LLMs | Gemini and OpenAI APIs, prompt engineering, RAG, LangChain, LlamaIndex, embeddings and reranking, vector databases, LoRA / PEFT fine-tuning, AI agents and tool calling, agent workflows, Hugging Face Transformers, LLM evaluation (RAGAS, LangSmith), guardrails and structured outputs |
-| 🧠 Machine & deep learning | Supervised and unsupervised learning, deep learning, NLP, time-series forecasting, anomaly detection, recommendation systems, reinforcement learning, explainable AI (SHAP / LIME), Optuna, scikit-learn, XGBoost, PyTorch, TensorFlow, Keras |
-| 👁️ Computer vision | Image processing, YOLO, U-Net / SAM segmentation, ViT / CLIP, MTCNN, transfer learning, CNNs, OpenCV, ONNX Runtime, TensorFlow Lite, edge AI deployment |
-| 📊 Data science & BI | Pandas, NumPy, SciPy, Matplotlib, Seaborn, Plotly & Dash, Power BI, Tableau, Microsoft Fabric, Databricks, PySpark, EDA, statistical analysis |
-| 🗄️ Data engineering | SQL, MySQL, PostgreSQL, MongoDB, Azure Data Lake, ETL / ELT pipelines, Apache Spark, Apache Airflow, data modelling, pipeline automation |
-| ☁️ MLOps & cloud | MLflow, Docker, Git and GitHub, CI/CD with GitHub Actions, FastAPI, Flask, Streamlit, REST APIs, model serving and monitoring, DVC, AWS, Microsoft Azure, Kubernetes |
-| 💻 Programming | Python, SQL, C / C++, Java, MATLAB, JavaScript / TypeScript, React, Next.js, Pydantic, Pytest, Linux |
-| 🔬 Research | Experimental design, statistical evaluation, benchmarking, ablation studies, reproducible experiments, Weights & Biases, literature review and research-gap analysis |
-| 🌐 Web & visualisation | React, Next.js, Three.js, interactive data visualisation, 3D visualisation, interactive simulations |
+## More projects
 
-## 🛤️ Journey
+[SMS spam (NLP)](https://github.com/Janeferdinant/NLP) · [Face-mask detection](https://github.com/Janeferdinant/FACEMASK_MTCNN) · [Stock forecasting with LSTM and RL](https://github.com/Janeferdinant/stock-forecasting-lstm-rl) · [Model serving with FastAPI](https://github.com/Janeferdinant/ml-model-serving-fastapi) · [Housing price regression](https://github.com/Janeferdinant/housing-price-regression)
 
-| When | Role | Where |
-|---|---|---|
-| 2026 – now | 👩‍🏫 **Assistant Professor, AI & ML** | SNMIMT Engineering College, Ernakulam |
-| 2025 | 👩‍🏫 **Assistant Professor** | Sri Vasavi Engineering College, Andhra Pradesh |
-| 2022 – 2025 | 💼 **Freelance Consultant** | ML, computer vision and analytics for clients, Thrissur |
-| 2021 | 💼 **Technical Consultant** | Technovalley Software India, Ernakulam |
-| 2019 | 📄 **IEEE ICACC paper** | Harvestable black-pepper recognition with computer vision |
-| 2017 – 2019 | 🎓 **M.Tech, Information Technology (Software Systems)** | Cochin University of Science and Technology |
-| 2011 – 2015 | 🎓 **B.Tech, Electronics & Communication** | Sahrdaya College of Engineering and Technology (University of Calicut) |
+## Teaching tools
 
-## 📜 Certifications
-
-Machine Learning · Artificial Intelligence Foundations: Machine Learning · Image Processing · Database Foundations: Creating and Manipulating Data · Advanced Selenium: Automation Frameworks
-
-## 📖 Publication
-
-S. Joseph, **N. F. Jane Rose** and P. V. Akhil, "Harvestable Black Pepper Recognition Using Computer Vision," *2019 9th International Conference on Advances in Computing and Communication (ICACC)*, Kochi, India, IEEE, pp. 97–102. [doi:10.1109/ICACC48162.2019.8986220](https://doi.org/10.1109/ICACC48162.2019.8986220)
-
-[![Let's build something meaningful. Visit janeferdinant.vercel.app](assets/footer.svg)](https://janeferdinant.vercel.app/#contact)
+[NetVerse](https://github.com/Janeferdinant/cst303-computer-networks-dashboard) · [dsa](https://github.com/Janeferdinant/dsa) · [bit](https://github.com/Janeferdinant/bit) · [ML course notebooks](https://github.com/Janeferdinant/Machine-learning-Course) · [PDF to Quiz](https://github.com/Janeferdinant/pdf-2-quiz) · [Fake-News](https://github.com/Janeferdinant/news) · [AIIDS](https://github.com/Janeferdinant/AIIDS)
